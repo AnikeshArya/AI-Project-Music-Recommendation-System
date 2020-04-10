@@ -1,0 +1,15 @@
+1. There are two types of recommendation system is provided in the given code :
+	a) Popularity Based
+	b) Similarity Based
+
+2. The Work Division is as : 
+	
+			****WORKS****					  **Names**	 **Reg. No.**  **Roll No.**
+
+	(i)Similarity Based Coding part is done by :- 			Anish Kumar Jha || 11812874 ||	 B-65
+
+	(ii)Popularity Based Coding and Dataframe part is done by :- 	Ashutosh Kumar 	|| 11803136 ||	 A-30 
+
+	(iii)Code Snippet part is done by :- 				Deepak Kumar 	|| 11809945 ||	 B-46
+
+	(iv)Report Part and Video part is done by :-			Anikesh Arya 	|| 11814733 ||	 A-26
